@@ -13,7 +13,7 @@
 ```python
 class Gabriel:
     role = "Computer Scientist"
-    location = "Brazil \U0001f1e7\U0001f1f7"
+    location = "Brazil 🇧🇷"
     approach = "Give me a problem — I'll pick the right tool and ship it"
     superpower = "Turning complex problems into simple, working systems"
     available = True
