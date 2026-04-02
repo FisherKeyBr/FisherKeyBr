@@ -27,14 +27,14 @@ class Gabriel:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FisherKeyBr&show_icons=true&theme=vue-dark&hide_border=true&icon_color=52B788&title_color=52B788&text_color=D8F3DC&ring_color=52B788&rank_icon=github" height="175" />
-  <img src="https://streak-stats.demolab.com?user=FisherKeyBr&theme=vue-dark&hide_border=true&ring=52B788&fire=B7E4C7&currStreakLabel=52B788&sideLabels=52B788&dates=D8F3DC&currStreakNum=D8F3DC&sideNums=D8F3DC" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FisherKeyBr&show_icons=true&theme=merko&hide_border=true&bg_color=1a1b27" height="175" />
+  <img src="https://streak-stats.demolab.com?user=FisherKeyBr&theme=merko&hide_border=true&background=1a1b27" height="175" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FisherKeyBr&layout=donut&theme=vue-dark&hide_border=true&title_color=52B788&text_color=D8F3DC&langs_count=6" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FisherKeyBr&layout=donut&theme=merko&hide_border=true&bg_color=1a1b27&langs_count=6" height="200" />
 </div>
 
 <br/>
