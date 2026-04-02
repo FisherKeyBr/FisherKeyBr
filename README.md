@@ -1,120 +1,68 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,9,5,30,22&height=200&section=header&text=Gabriel%20A.&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%E2%9A%A1%20Computer%20Scientist%20%7C%20Innovation%20Engineer%20%E2%9A%A1&descSize=16&descAlignY=55&descColor=A9FBD7" />
-
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&repeat=true&width=650&height=50&lines=%F0%9F%94%AC+Vibe+Coding+the+Bits+into+Innovations;%F0%9F%A7%A0+Computer+Scientist+by+Nature;%F0%9F%9A%80+If+It+Runs+on+Code%2C+I+Can+Build+It;%F0%9F%92%A1+Innovating+Bits%2C+One+Commit+at+a+Time;%E2%9A%A1+Turning+Coffee+into+Production+Systems;%F0%9F%8E%AF+Problem+Solver.+System+Builder.+Creator.)](https://git.io/typing-svg)
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:2D6A4F,50:40916C,100:95D5B2&height=160&section=header&animation=fadeIn" width="100%" />
+
+  <br/>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2800&pause=900&color=52B788&center=true&vCenter=true&repeat=true&width=650&height=55&lines=%E2%9A%A1+Innovating+at+the+Speed+of+Thought;%F0%9F%94%AC+Scientist+First%2C+Engineer+Always;%F0%9F%8C%8D+Code+Knows+No+Borders;%F0%9F%8E%AF+Ship+Fast.+Learn+Faster.+Repeat.;%F0%9F%92%AD+Ideas+In%2C+Production+Systems+Out;%F0%9F%94%A5+Obsessed+with+Elegant+Solutions)](https://git.io/typing-svg)
+
+  <br/>
 
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-</div>
-
-<br/>
-
-<!-- ABOUT ME -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
-  <b><i>"Give me a problem and a keyboard — I'll figure out the rest."</i></b>
-  <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" />
-</div>
-
-<br/>
-
-```js
-const gabriel = {
-    title: "Computer Scientist & Software Engineer",
-    location: "Brazil 🇧🇷",
-    approach: "Stack-agnostic problem solver",
-    philosophy: "The best code solves real problems for real people",
-    superpower: "Learning any technology fast and shipping it to production",
-    status: "Open to opportunities & collaborations",
-    codingSince: 2016,
-    coffeeConsumed: "∞",
-};
+```python
+class Gabriel:
+    role = "Computer Scientist & Software Engineer"
+    location = "Brazil 🇧🇷"
+    approach = "Give me a problem — I'll pick the right tool and ship it"
+    superpower = "Turning complex problems into simple, working systems"
+    status = "Open to opportunities"
+    since = 2016
 ```
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <br/>
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FisherKeyBr&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=C9D1D9&rank_icon=github" height="180" />
-  <img src="https://streak-stats.demolab.com?user=FisherKeyBr&theme=radical&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FisherKeyBr&show_icons=true&theme=vue-dark&hide_border=true&icon_color=52B788&title_color=52B788&text_color=D8F3DC&ring_color=52B788&rank_icon=github" height="175" />
+  <img src="https://streak-stats.demolab.com?user=FisherKeyBr&theme=vue-dark&hide_border=true&ring=52B788&fire=B7E4C7&currStreakLabel=52B788&sideLabels=52B788&dates=D8F3DC&currStreakNum=D8F3DC&sideNums=D8F3DC" height="175" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FisherKeyBr&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FisherKeyBr&layout=donut&theme=vue-dark&hide_border=true&title_color=52B788&text_color=D8F3DC&langs_count=6" height="200" />
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <br/>
 
-### 📈 Contribution Graph
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FisherKeyBr&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area_color=00D9FF" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FisherKeyBr&theme=green&hide_border=true&area=true&bg_color=1a1b27&color=52B788&line=52B788&point=B7E4C7&area_color=2D6A4F" width="100%" />
 </div>
 
 <br/>
 
-<!-- ANIMATED DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 
 <br/>
 
-### ⚡ Fun Zone
-
 <div align="center">
 
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+  <img src="https://komarev.com/ghpvc/?username=FisherKeyBr&color=52B788&style=for-the-badge&label=VISITORS" />
 
   <br/><br/>
 
-  <img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder&bgColor=0D1117&textColor=00D9FF&qColor=FF6B6B&aColor=A9FBD7" alt="Jokes Card" />
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2D6A4F?style=for-the-badge&logo=statuspage&logoColor=B7E4C7" />
+  <img src="https://img.shields.io/badge/BRAZIL%20🇧🇷-40916C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SINCE%202016-52B788?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
-<br/>
-
-<!-- ANIMATED DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
-
-<br/>
-
-<div align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=FisherKeyBr&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS" />
-
-  <br/><br/>
-
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00D9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/BASED%20IN-BRAZIL%20🇧🇷-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/CODING%20SINCE-2016-A9FBD7?style=for-the-badge&labelColor=0D1117" />
-
-  <br/><br/>
-
-  **🚀 Let's build something awesome together.**
-
-  <br/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8b5c-9e7f3faec5a3.gif" width="30" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8b5c-9e7f3faec5a3.gif" width="30" />
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8b5c-9e7f3faec5a3.gif" width="30" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5,30,22&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D6A4F,50:40916C,100:95D5B2&height=100&section=footer" width="100%" />
