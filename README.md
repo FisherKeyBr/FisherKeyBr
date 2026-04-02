@@ -4,7 +4,7 @@
 
   <br/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2800&pause=900&color=52B788&center=true&vCenter=true&repeat=true&width=650&height=55&lines=%E2%9A%A1+Innovating+at+the+Speed+of+Thought;%F0%9F%94%AC+Scientist+First%2C+Engineer+Always;%F0%9F%8C%8D+Code+Knows+No+Borders;%F0%9F%8E%AF+Ship+Fast.+Learn+Faster.+Repeat.;%F0%9F%92%AD+Ideas+In%2C+Production+Systems+Out;%F0%9F%94%A5+Obsessed+with+Elegant+Solutions)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2800&pause=900&color=52B788&center=true&vCenter=true&repeat=true&width=650&height=55&lines=%F0%9F%9A%80+Ship+Fast.+Learn+Faster.+Repeat.;%F0%9F%94%A5+Obsessed+with+Elegant+Solutions;%F0%9F%8C%8D+Code+Knows+No+Borders;%E2%9A%A1+From+Idea+to+Production+in+Record+Time;%F0%9F%92%AA+Solving+Problems+Others+Walk+Away+From;%F0%9F%93%A6+Less+Hype.+More+Shipping.)](https://git.io/typing-svg)
 
   <br/>
 
@@ -12,11 +12,11 @@
 
 ```python
 class Gabriel:
-    role = "Computer Scientist & Software Engineer"
-    location = "Brazil 🇧🇷"
+    role = "Computer Scientist"
+    location = "Brazil \U0001f1e7\U0001f1f7"
     approach = "Give me a problem — I'll pick the right tool and ship it"
     superpower = "Turning complex problems into simple, working systems"
-    status = "Open to opportunities"
+    available = True
     since = 2016
 ```
 
@@ -60,7 +60,7 @@ class Gabriel:
   <br/><br/>
 
   <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-2D6A4F?style=for-the-badge&logo=statuspage&logoColor=B7E4C7" />
-  <img src="https://img.shields.io/badge/BRAZIL%20🇧🇷-40916C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BRAZIL%20%F0%9F%87%A7%F0%9F%87%B7-40916C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SINCE%202016-52B788?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
