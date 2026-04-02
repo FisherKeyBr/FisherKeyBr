@@ -28,7 +28,7 @@ class Gabriel:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FisherKeyBr&show_icons=true&theme=merko&hide_border=true&bg_color=1a1b27" height="175" />
-  <img src="https://streak-stats.demolab.com?user=FisherKeyBr&theme=merko&hide_border=true&background=1a1b27" height="175" />
+  <img src="https://streak-stats.demolab.com?user=FisherKeyBr&hide_border=true&background=1a1b27&ring=52B788&fire=52B788&currStreakLabel=52B788&sideLabels=52B788&dates=95D5B2&currStreakNum=D8F3DC&sideNums=D8F3DC&stroke=52B788" height="175" />
 </div>
 
 <br/>
